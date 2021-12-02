@@ -4,7 +4,6 @@
 - 🌱 I'm fluent in flutter java and c++.
 - 💞️ I’m looking to collaborate on software development for mobilephones.
 - 📫 How to reach me : Gmail : www.alimoayedi79@gmail.com , whatsapp:+989302024810
-- 
 
 
 <!---
