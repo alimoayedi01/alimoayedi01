@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @alimoayedi01
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning flutter . Im fluent in java and c++.
+- 👀 I'm do freelance work in flutter
+- 🌱 I'm fluent in flutter java and c++.
 - 💞️ I’m looking to collaborate on software development for mobilephones.
-- 📫 How to reach me : Gmail : www.alimoayedi79@gmail.com
+- 📫 How to reach me : Gmail : www.alimoayedi79@gmail.com , whatsapp:+989302024810
+- 
 
 
 <!---
